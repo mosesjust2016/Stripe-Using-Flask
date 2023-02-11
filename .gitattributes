@@ -1,0 +1,5 @@
+# Direct 
+*.* linguist-language=python flask
+*.* linguist-language=HTML5
+*.* linguist-language=CSS3
+*.* linguist-language=API
